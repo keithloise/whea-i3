@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="341dbe1e-1866-42aa-9e86-d304ab491197" name="waitematahealth-i3" url="http://waitematahealth.i3-uat.nz/">
+        <fileTransfer host="120.138.21.36" port="22" rootFolder="/container/waitematahealth.i3-uat.nz/application/public" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
